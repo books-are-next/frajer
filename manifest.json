@@ -1,0 +1,623 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Frajer",
+  "author": "Marek Toman",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "toman-frajer-7f1b11e",
+  "revision": "7f1b11e",
+  "readingOrder": [
+    "promo.html",
+    "frajer_005.html",
+    "frajer_006.html",
+    "frajer_008.html",
+    "frajer_010.html",
+    "frajer_012.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 08:51:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652950292277
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "frajer_005.html",
+      "toc": []
+    },
+    {
+      "title": "Frajer",
+      "file": "frajer_005.html",
+      "words": 103,
+      "chars": 629,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "frajer_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. ČÁST  LOVE",
+      "file": "frajer_006.html",
+      "words": 21519,
+      "chars": 128455,
+      "ideas": 720,
+      "role": "chapter",
+      "order": 2,
+      "prev": "frajer_005.html",
+      "next": "frajer_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I. ČÁST  LOVE",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "17. 11. 1989, Národní třída v Praze, 18:07",
+              "id": "17-11-1989-národní-třída-vpraze-1807",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "18. 7. 2008, Olší u Tábora, 20:19",
+              "id": "18-7-2008-olší-utábora-2019",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Hra na přetlačovanou",
+              "id": "hra-nanbsppřetlačovanou",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "17. 11. 1989, Národní třída v Praze, 18:32",
+              "id": "17-11-1989-národní-třída-vpraze-1832",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Barevná hudba",
+              "id": "barevná-hudba",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "17. 11. 1989, Národní třída v Praze, 19:10",
+              "id": "17-11-1989-národní-třída-vpraze-1910",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Vitamíny",
+              "id": "vitamíny",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "17. 11. 1989, Vyšehradská ulice v Praze, 19:17",
+              "id": "17-11-1989-vyšehradská-ulice-vpraze-1917",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Líčení",
+              "id": "líčení",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "17. 11. 1989, Vyšehradská ulice v Praze 19:32",
+              "id": "17-11-1989-vyšehradská-ulice-vpraze-1932",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Kateřina",
+              "id": "kateřina",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "17. 11. 1989, Benátská ulice v Praze, 21:12",
+              "id": "17-11-1989-benátská-ulice-vpraze-2112",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Slavnostní tank",
+              "id": "slavnostní-tank",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "17. 11. 1989, Voršilská ulice v Praze, 22:07",
+              "id": "17-11-1989-voršilská-ulice-vpraze-2207",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Love",
+              "id": "love",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "17. 11. 1989, Voršilská ulice u Národní třídy, 22:12",
+              "id": "17-11-1989-voršilská-ulice-unárodní-třídy-2212",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Grilované kuře",
+              "id": "grilované-kuře",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "17. 11. 1989, Vratislavova ulice v Praze, 23:09",
+              "id": "17-11-1989-vratislavova-ulice-vpraze-2309",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Snímky ze svatby",
+              "id": "snímky-zenbspsvatby",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "18. 11. 1989, Vyšehrad, Praha, 11:02",
+              "id": "18-11-1989-vyšehrad-praha-1102",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "Zkulturnit se",
+              "id": "zkulturnit-se",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "18. 11. 1989, Plaská ulice v Praze, 20:15",
+              "id": "18-11-1989-plaská-ulice-vpraze-2015",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "Číslo",
+              "id": "číslo",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "19. 11. 1989, Národní třída v Praze, 10:12",
+              "id": "19-11-1989-národní-třída-vpraze-1012",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "Dárek do domácnosti",
+              "id": "dárek-donbspdomácnosti",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "20. 11. 1989, Václavské náměstí v Praze, 9:38",
+              "id": "20-11-1989-václavské-náměstí-vpraze-938",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "Obvody",
+              "id": "obvody",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "20. 11. 1989, Kladno, 13:12",
+              "id": "20-11-1989-kladno-1312",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "21. 11. 1989, Mělník, 18:07",
+              "id": "21-11-1989-mělník-1807",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "23. 11. 1989, náměstí Krasnoarmějců v Praze, 9:21",
+              "id": "23-11-1989-náměstí-krasnoarmějců-vpraze-921",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "24. 11. 1989, náměstí Krasnoarmějců v Praze, 17:27",
+              "id": "24-11-1989-náměstí-krasnoarmějců-vpraze-1727",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II. ČÁST  SVOBODA",
+      "file": "frajer_008.html",
+      "words": 17871,
+      "chars": 106027,
+      "ideas": 744,
+      "role": "chapter",
+      "order": 3,
+      "prev": "frajer_006.html",
+      "next": "frajer_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II. ČÁST  SVOBODA",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Měřítko 1 : 1",
+              "id": "měřítko-1--1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Ani daleko, ani blízko",
+              "id": "ani-daleko-ani-blízko",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Nekvalitní tisk",
+              "id": "nekvalitní-tisk",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Když chceš buchtu zaujmout",
+              "id": "když-chceš-buchtu-zaujmout",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Něco, co by mu udělalo radost",
+              "id": "něco-conbspbynbspmunbspudělalo-radost",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Vlastnické vztahy",
+              "id": "vlastnické-vztahy",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Stroboskop",
+              "id": "stroboskop",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Abstinenční syndrom",
+              "id": "abstinenční-syndrom",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Vstupní kapitál",
+              "id": "vstupní-kapitál",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Aza a její úsměvy",
+              "id": "aza-ajejí-úsměvy",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Zvláštní význam trvalé",
+              "id": "zvláštní-význam-trvalé",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Bypass",
+              "id": "bypass",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Copánek",
+              "id": "copánek",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Diagnóza",
+              "id": "diagnóza",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Jako pilot v džungli",
+              "id": "jako-pilot-vdžungli",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Na místě spolujezdce",
+              "id": "nanbspmístě-spolujezdce",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "III. ČÁST  CHATOVÁNÍ",
+      "file": "frajer_010.html",
+      "words": 14256,
+      "chars": 84102,
+      "ideas": 443,
+      "role": "chapter",
+      "order": 4,
+      "prev": "frajer_008.html",
+      "next": "frajer_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III. ČÁST  CHATOVÁNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ahoj, babylónský řeky",
+              "id": "ahoj-babylónský-řeky",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Aby to všechno mělo nějaký smysl",
+              "id": "aby-tonbspvšechno-mělo-nějaký-smysl",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Michalův byt",
+              "id": "michalův-byt",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Lék proti smrti",
+              "id": "lék-proti-smrti",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Jednou jsme si sedli",
+              "id": "jednou-jsme-sinbspsedli",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Černá hvězda",
+              "id": "černá-hvězda",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Teorie tří O",
+              "id": "teorie-tří-o",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Proč ženský trápěj chlapy",
+              "id": "proč-ženský-trápěj-chlapy",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Plány praxe",
+              "id": "plány-praxe",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Hranice",
+              "id": "hranice",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Auto, které předjíždím",
+              "id": "auto-které-předjíždím",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Jak bych se zachoval já",
+              "id": "jak-bych-senbspzachoval-já",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Ať se do něčeho nenamočíš",
+              "id": "aťnbspsenbspdonbspněčeho-nenamočíš",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Prořezávání stromů",
+              "id": "prořezávání-stromů",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Setkání",
+              "id": "setkání",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Pod vlajkou",
+              "id": "pod-vlajkou",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Rivers of Babylon",
+              "id": "rivers-ofnbspbabylon",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frajer",
+      "file": "frajer_012.html",
+      "words": 50,
+      "chars": 325,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 5,
+      "prev": "frajer_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 113,
+      "chars": 711,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "frajer_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 53917,
+      "chars": 320277,
+      "ideas": 1930
+    },
+    "chapters": {
+      "words": 53799,
+      "chars": 319538,
+      "ideas": 1911
+    }
+  }
+}
