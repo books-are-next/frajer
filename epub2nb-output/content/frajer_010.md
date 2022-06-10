@@ -7,21 +7,13 @@ contentType: prose
 
 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<section>
 
 ## Ahoj, babylónský řeky
 
-  
+</section>
+
+<section>
 
 O osm let později uvidím plakát festivalu s mohutnou šipkou, přimalovanou fixou. Visí na plaňce vražené do země. Práci ve firmě mám v paži, posledních pár let si říkám, že bych měl zkusit něco jiného. Dál se vozím v autě s Azinými krabicemi, a užívám si, že mě nic do žádné změny nenutí. Dávno jsme přestali prodávat hotové produkty. Specializujeme se na prostředky, se kterými si lidi sami vypěstují, co chtějí.
 
@@ -63,7 +55,9 @@ Dojde mi, odkud znám kloboučky, co je má naražené kapela. Přesně takové 
 
 _Ahoj_, _babylónský řeky_, zní mi v hlavě a vrací se mi, jak to všechno bylo.
 
-  
+</section>
+
+<section>
 
 Ten den ráno jsem v umyvadle našel zbytky Michalových vousů. Pokaždé, když u nás přespal, ho po sobě neumyl, a máma se naštvala. Tak jednou týdně se stavoval, i když už konečně dostal byt. Měl tam jen základní nábytek a věci, které mu dali naši. Všechno nechal lze, včetně Izabelky.
 
@@ -79,7 +73,9 @@ Olda ležel na gauči, ruku přes oči. Měl šlachovité předloktí, jako kdyb
 
 ## Aby to všechno mělo nějaký smysl
 
-  
+</section>
+
+<section>
 
 Někdy před festivalem se mi ozvala ta redaktorka. Na její facebookovou nabídku přátelství jsem odepsal, že si mě nejspíš s někým plete. Něco na fotce mě ale zarazilo, ty intelektuálské brýle, ty ostře namalované rty jsem přece už někde viděl. A pak jsem si ji konečně vybavil. Vzpomněl jsem si, jak po mně chce sepsání mých zážitků pro brožuru, jak sedím mezi psacími stroji a jak se mi to nedaří.
 
@@ -109,7 +105,9 @@ Bára se chtěla sejít, protože i když jsem jí poslal spoustu materiálu, n
 
 ## Michalův byt
 
-  
+</section>
+
+<section>
 
 Zaparkovali jsme u nízkého paneláku, kolem byly vzrostlé stromy. Musely tam zůstat z doby, kdy sídliště ještě nestálo. Vyšlápli jsme tři patra schodů, Olda se ne a ne trefit klíčem do zámku.
 
@@ -141,7 +139,9 @@ A tam vzadu to bylo. Skvrna zčernalé krve, ve které zatuhly vajgly, skořáp
 
 ## Lék proti smrti
 
-  
+</section>
+
+<section>
 
 Bára se skláněla v Indigu nad vytištěným textem a bezradně v něm rozmisťovala nečitelné značky. „Chtělo by to míň dialogů,“ navrhla.
 
@@ -167,7 +167,9 @@ Azini klienti vdechnou kouř a dostaví se radost. Všechno kolem, celá kultur
 
 ## Jednou jsme si sedli
 
-  
+</section>
+
+<section>
 
 „Měli jsme tě nechat doma,“ hlesla máma, sedící vedle mě na posteli. „Vezmeš si aspoň nějaké knížky?“
 
@@ -183,7 +185,9 @@ Sevřelo se mi srdce, když mi došla přitroublá alegoričnost obrazu nad nimi
 
 Doma jsem si šel umýt ruce. Těšil jsem se na proud teplé vody, který si pustím na zápěstí. V umyvadle byly pořád ještě zbytky Michalových vousů. Olda si stoupnul vedle mě. Roztočil kohoutek, pustil jenom teplou. Začal umyvadlo pečlivě mýt. Teď už musela téct vařící.
 
-  
+</section>
+
+<section>
 
 Chlapík z krematoria pro nás přišel do předsálí a zpomaleně nás zavedl dovnitř. Obřadně ustoupil stranou. Zůstali jsme stát vedle sebe.
 
@@ -221,7 +225,9 @@ Když se rakev dala do pohybu a my se zvedli z lavic, uvědomil jsem si neček
 
 ## Černá hvězda
 
-  
+</section>
+
+<section>
 
 Dívám se po holkách kolem sebe, všechny vypadají, jako by za sebou ještě neměly setkání s prvním osudovým kreténem svého života, a jako by k němu ani nemuselo dojít. Čtu v jejich úsměvech, ze kterých vidím vždycky jenom náznak. Zezadu, přes rameno, z poloprofilu. V nepravidelném světle, plném záblesků a stínů, si jsem jistý, že bychom se mohli vyhnout slovům, která vždycky znamenají něco jiného. V pauzách si je prohlédnu pořádně. Pokaždé vypadají jinak.
 
@@ -251,7 +257,9 @@ Michal se na svých diskotékách vždycky snažil někoho sbalit. Tančím mezi
 
 ## Teorie tří O
 
-  
+</section>
+
+<section>
 
 Svůj text pro Báru jsem psal do noťasu rychle, jako bych chatoval. Pořád v něm ale něco scházelo. Snažil jsem se vylovit z paměti nějaký důležitý detail, a pak jsem si vzpomněl na jeden rozhovor s Michalem. Zeptal jsem se ho tehdy, proč ho Iza vyrazila.
 
@@ -321,7 +329,9 @@ Neodpověděla mi a Bára se už taky neozvala.
 
 ## Proč ženský trápěj chlapy
 
-  
+</section>
+
+<section>
 
 Po Michalově pohřbu se jelo do hospody, zakouřeného podniku s chabým osvětlením. Personál se tvářil profesionálně zdrceně. Bylo to ještě horší, než kdyby se netvářil nijak. Mlčky jsme přihlíželi, jak na stolech přistávají talíře s rychle chladnoucími roštěnkami. Jeden z číšníků mámu zkoumavě pozoroval. Jindy jsem se pozorováním jejích klientů docela bavil, teď jsem si jenom přál, aby mlčel. Mohl jí říct, že abstinuje, nebo že má recidivu – obě možnosti potvrzovaly, že Michal to projel, a my s ním.
 
@@ -395,7 +405,9 @@ Aza se rychle rozloučila, podala mi zběžně ruku jako všem ostatním. Máma 
 
 ## Plány praxe
 
-  
+</section>
+
+<section>
 
 Několik dní po Michalově pohřbu jsem se zastavil u našich. Seděli v kuchyni sklonění nad plány. „A tady by byla čekárna,“ řekl Olda, jako by existovalo tisíc jiných možností, kam ji umístit.
 
@@ -473,7 +485,9 @@ Vzpomněl jsem si na fotku, která se mi dostala do ruky, když jsme se jednou p
 
 ## Hranice
 
-  
+</section>
+
+<section>
 
 Trombonista s kšiltem dozadu několikrát poskočí do rytmu, pak rutinně přiloží svůj nástroj k puse, ani o vteřinu dřív, ani o vteřinu později, namířený přesně na mikrofon. Saxofonista stojí rozkročený, všechna jeho energie se vlévá do klapek a náústku. Kytarista v mikině s přehozenou kapucí sází riffy a vrhá do publika napůl pobavený, napůl ironický úsměv. Klávesák se kymácí za klávesami, bicmanovi visí z pusy cigareta. Trumpetista zvedá svůj nástroj do výšky. Mezi nimi proplouvá zpěvák s dredy až na břicho, a hlubokým hlasem to všechno hrne před sebou.
 
@@ -493,7 +507,9 @@ Omotám si mikinu kolem hlavy, takže odfiltruje všechno kromě rytmu. Vnímám
 
 ## Auto, které předjíždím
 
-  
+</section>
+
+<section>
 
 S mámou si rozumím, protože si s ní skajpuju. Vozím s sebou noťas a k večeru zastavím poblíž restaurace nebo kavárny, kde se dá chytit signál. Když byla máma u ušaře, ukázalo se, že hůř slyší na pravé ucho, skypová sluchátka by měla pomoct.
 
@@ -515,7 +531,9 @@ Při další zastávce vytáhnu anglickou knížku od Tibora Fischera _The Colle
 
 Já nezávodím. Když na dálnici přece jenom někoho předjíždím, kouknu se napravo, abych se bezpečně dostal před něj. Silueta řidiče mi občas připomene Michala anebo Oldu. Lehce uberu plyn, představuju si, že jsou to opravdu oni, a pár okamžiků se vznášíme vedle sebe.
 
-  
+</section>
+
+<section>
 
 Konečně zaberu. Probudí mě šustění tropika a rozepínání stanového zipu. Uslyším se, jak ochraptělým hlasem, placatým jako plech, říkám: „Ale copak, copak?“ Někdo mi odpoví podivně střízlivě: „Spletl jsem si stan.“
 
@@ -541,7 +559,9 @@ Kecáme, dokud nezačne svítat. V šedém světle se Michalovi ani trochu nepo
 
 ## Jak bych se zachoval já
 
-  
+</section>
+
+<section>
 
 „Haló, haló!“ provolává máma. „HALÓ!“
 
@@ -663,7 +683,9 @@ Ani jeden z nás nevěřil, že Olda zemře, dokud se to nestalo. O Michalově
 
 Když se vezu naším firemním autem, hledám u silnice cedule, kolem kterých jsme kdysi dávno projeli. Nedávno jsem uviděl zrezlou reklamu na _navíjení motorů_ a vzpomněl jsem si, jak se máma tehdy divila, co je to za pitomost, a jak jí Olda vysvětloval ten termín s trošku komickou vážností technika. Nejradši bych ceduli ukradl. Nakonec ji tam nechám, ať si nad ní může lámat hlavu někdo jiný.
 
-  
+</section>
+
+<section>
 
 Dojdu na kraj lesa, svezu se na zem, která už stačila proschnout, a natáhnu se. Konečně jsem se dostal tak daleko, abych přestal slyšet basy ze stagí. Lituju, že jsem si nevzal jeden z těch kloboučků, co ležely na poličce v Oldově skříni. Když mi je máma nabídla, nevěděl jsem, co s nimi. Nakonec si rozprostřu přes obličej šátek.
 
@@ -693,7 +715,9 @@ _Michal mě z toho přece jenom vysekal, honilo se mi hlavou. A pak jsem si p�
 
 ## Prořezávání stromů
 
-  
+</section>
+
+<section>
 
 Máma mi zavolá, když na chatě prořezávají stromy. Některé z nich tam kdysi zasadil Olda, teď jsou z nich dospělé smrky. Kvůli příliš mělkým kořenům by mohly spadnout na auto nebo na chatu. Něco v jejím hlase mě přiměje, abych jí okamžitě slíbil, že přijedu. Jsem v Mělníku, a když se otočím a projíždím centrem, snažím se poznat, kde jsme v listopadu ’89 lepili plakát, ale nepovede se mi to.
 
@@ -743,7 +767,9 @@ Zadívám se na ni. Je maličko rozkročená, paže má volně podél těla. Vyp
 
 ## Setkání
 
-  
+</section>
+
+<section>
 
 Zrovna si říkám, jak musím partičce odvedle připadat. Překvapí mě, když mi holka s copánky řekne: „Nechceš si dát taky brko?“ Přestěhuju se na jejich kus koberce i se svou šíšou, abych se revanšoval.
 
@@ -921,7 +947,9 @@ _Svaly v nohou se mi napínají, mám v sobě jeden hubený joint a jedno pln
 
 ## Rivers of Babylon
 
-  
+</section>
+
+<section>
 
 Nohy mi už několikrát ztěžkly, ale vždycky jsem se z únavy vytancoval. Kdy jsem nechal náš stánek Petrovi, před čtyřmi hodinami? Zdá se to být chvilka. Čas se zamotal do sebe a stopnul. Vznáším se nad zdupanou trávou. Mám v sobě jeden hubený joint a jedno plnoštíhlé pivo, svou zdravotní dávku. Někdo mě vzal za vlasy vzadu na hlavě, táhne mě nahoru, a já ho ochotně následuju.
 
@@ -940,3 +968,5 @@ Utancované nohy se rozbolí. Zachytím tě někde na okraji toho, kam ještě v
 _Pěkně s náma zametli, my jim za to vyrvem značky_, zpívám si mlčky.
 
 A ty se dáš pomalu do pohybu. Nejdřív se nezávazně vlníš jako na diskotéce. Pak přidáš na tempu, a za chvíli jsi k nerozeznání od ostatních tanečníků. Nakonec z tebe vidím jen poskakující pramen vlasů, a pak už ani to ne. Snáší se tma, ve které se rozsvítily reflektory.
+
+</section>

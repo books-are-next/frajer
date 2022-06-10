@@ -7,21 +7,13 @@ contentType: prose
 
 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<section>
 
 ## Měřítko 1 : 1
 
-  
+</section>
+
+<section>
 
 Už jsme si nemuseli dávat při vylepování plakátů pozor. Většinou k nám přišel někdo z místních a převzal si je. Pokud ještě bylo kam je dát.
 
@@ -119,7 +111,9 @@ Překvapeně zvedla obočí: „No fajn. Zase se stav. – Jo, a pozdravuje t�
 
 ## Ani daleko, ani blízko
 
-  
+</section>
+
+<section>
 
 Stalo se to na koncertě Už jsme doma. Kapela dohrála, kytarista si utíral zpocenou tvář do ručníku. Naservírovali obvyklou dávku energie, která se zasekávala jak ozubené kolo do řetězu. Stroj jejich hudby se ovšem pohyboval příliš rychle. Jako by chtěli něco přesně vyslovit, a zároveň všechno vychrlit naráz. Řetěz se opožďoval za zuby. Basák na úplném konci, po přídavcích, udělal pár klopýtavých kroků, strhnul si nástroj z krku a říznul s ním o pódium. „Nepřestávej,“ zamumlala Alena. Se zavřenýma očima sebou škubala do rytmu, který už slyšela jenom ona. Sklonil jsem se k ní, zahryzl se jí do vlasů. Cukly sebou a já šel za nimi.
 
@@ -147,7 +141,9 @@ Přitiskla se ke mně ještě víc. Sklonil jsem se k ní, její vlasy jsem mě
 
 ## Nekvalitní tisk
 
-  
+</section>
+
+<section>
 
 „Jak mu ty vlasy visí do čela, vypadá tak…,“ snažila se najít vhodný výraz máma.
 
@@ -235,7 +231,9 @@ Olda přinesl z obýváku plakát Občanského fóra, vsazený do vlastnoručn�
 
 ## Když chceš buchtu zaujmout
 
-  
+</section>
+
+<section>
 
 Michal se u nás teď pravidelně stavoval. Vždycky vypálil pár vtípků, po kterých máma stáhla rty, a Olda se opatrně usmál. Konečně přestal pochůzkařit a stal se řidičem. Olda se ho už neptal, kdy z něj bude detektiv. Budišovi jsem se neozval, protože se mi zdálo, že Michal se dal dohromady.
 
@@ -347,7 +345,9 @@ Vyprskl jsem smíchy.
 
 ## Něco, co by mu udělalo radost
 
-  
+</section>
+
+<section>
 
 Za Michalem jsem teď chodil do jeho policajtské hospody. Nemělo smysl stavovat se u něj doma, kde mě Izabela akorát zahrnula výčitkami. Jako bych za něco mohl, nebo jako bych mohl něco změnit.
 
@@ -397,7 +397,9 @@ Cestou zpátky se máma rozpovídala. Už dávno si všimla, že Michal začín�
 
 Pak nám máma vysvětlila, jaké můžou být další příčiny záchvatu. Epilepsie se začala jevit jako celkem přijatelná varianta.
 
-  
+</section>
+
+<section>
 
 Při návštěvách jsem pozoroval ostatní pacienty. Na pokoji ležel chlap kolem třicítky, měl výrazné oči, vysoké tváře, plné rty. Jeho obličeji odpovídalo atletické tělo, ze kterého jsem viděl široká ramena, svalnatá předloktí. Přestávaly mu fungovat nervy a postupně se propadal do nehybnosti. Z postele už nedokázal sám vstát, i tak si to v noci dělal v jednom kuse, jak mi Michal pošeptal. Kdo ví, jak dlouho ještě bude moct, dýchnul mi horce do ucha a mně přišlo, že se konečně probírá.
 
@@ -417,7 +419,9 @@ Zašel jsem za Izou pro Michalovy věci, mlčky mi zabalila jeho župan. Poprosi
 
 ## Vlastnické vztahy
 
-  
+</section>
+
+<section>
 
 Vzali mě s sebou, když se jeli podívat na dům, kde si máma chtěla zařídit soukromou praxi. Na zadním sedadle jsem si sedl doprostřed. Řídil Olda. Zastavili jsme před domkem na Kačerově, máma stiskla tlačítko zvonku, tak ohmatané, že bylo skoro průsvitné, a po několika minutách se vyšourala ženština ve vytahaných teplákách a s cigaretou. Na hlavě se jí ježila špinavá trvalá. Připomnělo mi to trochu mé vlastní vlasy, když mi odrůstaly a trčely nezvladatelně nahoru. Teď už jsem je nosil secvaknuté sponou, ze které jsem sloupl ozdobnou umělou hmotu.
 
@@ -485,13 +489,17 @@ Olda se na mě zvláštně podíval: „No, jenom v Tuzexu. Když jsi měl bony
 
 „A ta felicie, co jsi v ní jezdil s Michalem do Jugoslávie, to nebyl bourák?“ snažil jsem se zachránit situaci. Olda zaváhal, pak zavrtěl hlavou.
 
-  
+</section>
+
+<section>
 
 Jestli bude chtít redaktorka tohle vynechat, klidně může. Samozřejmě vím, že se sedmnáctým listopadem souvisejí mé rodinné historky hodně volně. Nemůžu jenom zapomenout na auto koupené za cizí peníze a na plán založit si praxi v prádelně, na ty dva pokusy vést normální život. Cortinu jsem od té doby párkrát na ulici zahlédl a vždycky mě překvapilo, jak je ve skutečnosti malá. Vypadá mezi současnými vozy tak trochu jako model, který si někdo slepil ze stavebnice. Nechápu, jak se dovnitř mohli vejít čtyři lidi.
 
 ## Stroboskop
 
-  
+</section>
+
+<section>
 
 „No dobře, pokusíme se ho protlačit na tomograf. Nemusím vám vysvětlovat, jak je to složité, má ho jenom jedno specializované pracoviště,“ řekl profesor mámě na chodbě a ona zbožně přikývla. Tvářila se jako její klienti.
 
@@ -575,7 +583,9 @@ V ordinaci se rozsvítilo. Uviděl jsem Michalovy prsty u nohou, jak se pohybu
 
 ## Abstinenční syndrom
 
-  
+</section>
+
+<section>
 
 „Co ti teda je?“ zeptal jsem se ho, když ho konečně pustili. Chvíli se na mě vydržel dívat přes okraj sklenky s džusem, pak sklopil oči a napil se. Lokl jsem si z půllitru. Pokrčil rameny, doktor od EEG mu prý řekl, že nález je v podstatě normální. Je tam nějaká nepravidelnost, co k ní Michal přišel nejspíš při porodu, kdy se málem uškrtil na pupeční šňůře. Epilepsie to ale není.
 
@@ -639,7 +649,9 @@ Kapela dohrála a sklidila řídký potlesk. Zahlédl jsem nějaký pohyb pod k
 
 ## Vstupní kapitál
 
-  
+</section>
+
+<section>
 
 Michal změnil hospodu a já se nemusel ptát proč. Frajeři obvykle nedostávají z chlastu záchvaty a nepotřebují si opakovat zrychlení aut. Na druhou stranu měl teď zdravější barvu a lépe na mě zaostřoval, zatímco otráveně seděl nad sklenicí džusu v pajzlíku na rohu dvou žižkovských ulic, kde u vchodu blikaly hrací automaty. Nakonec se stejně vrátil do policajtské hospody, akorát že jsem ho tam vídal už jenom s kapitánem Budišem.
 
@@ -785,7 +797,9 @@ Za oknem rostl bezový keř. Ve větvích měl zamotané cáry igelitu, které s
 
 ## Aza a její úsměvy
 
-  
+</section>
+
+<section>
 
 „Ten kretén,“ řekl jsem. A myslel jsem bráchu. Aza se na mě podívala přes okraj své sklenky s vínem. Všechny její sklenice vypadaly, jako by je vyhrabala někde na smetáku, každou jinde. Některé měly tvar osmibokého hranolu na silné nožce, jiné byly válcovité, z tenkého skla, pokryté vybroušenými vzory. Ta moje házela duhové odlesky, jak jsem s ní otáčel v prstech.
 
@@ -967,7 +981,9 @@ Vrátil jsem se, začal pracovat pro Azu, a pustil jsem se do angličtiny.
 
 ## Zvláštní význam trvalé
 
-  
+</section>
+
+<section>
 
 S Azou to bylo zvláštní. Ani jsem pořádně nevěděl, jestli spolu něco máme. Nechtěla se držet za ruku, a když jsem ji vzal za dlouhé prsty, ucítil jsem, jak tuhne.
 
@@ -1161,7 +1177,9 @@ Zjistil jsem, že mi vyhovuje být sám v autě, kde můžu poslouchat muziku a
 
 ## Bypass
 
-  
+</section>
+
+<section>
 
 „Je v nemocnici,“ vychrlila na mě máma hned v předsíni. „Má infarkt. Je zázrak, že to vůbec přežil – ještě že byl vedle soused, který zavolal záchranku.“
 
@@ -1233,7 +1251,9 @@ Příště jsem u něj našel Budiše, který si rozložil po jeho dece papíry
 
 ## Copánek
 
-  
+</section>
+
+<section>
 
 Když se Olda vrátil z nemocnice, jako by se nic nezměnilo. Svlečený do půl těla dál pracoval nahoře v podkroví. Opálená kůže se mu napínala na předloktích, po hrudníku se mu táhla dlouhá jizva. V nemocnici si rozepnul pyžamo a ukázal mi vrstvu náplastí. Pochlubil se, že mu přesekali žebra, aby se dostali dovnitř.
 
@@ -1285,7 +1305,9 @@ Plácali jsme, co nám slina na jazyk přinesla, protože o slova tak úplně n
 
 ## Diagnóza
 
-  
+</section>
+
+<section>
 
 Oldovo srdce se zhoršovalo. Zastavoval se, aby se chytil za dokonale zahojenou hruď s potemnělou jizvou. Lahvičku s nitroglycerinem si nosil i do podkroví. Jednou pro mě zajel k autobusu a u chaty zůstal sedět v autě, i když já už jsem dávno postával venku. Pohled přes čelní sklo mi stačil. Oběhl jsem auto a nabídl mu ruku, Olda se zvolna vysoukal a jako by tím vyčerpal všechny své síly, podlomila se mu kolena. Zřítil se na mě, porazil mě do škvíry mezi autem a betonovým chodníčkem. V hlavě mi tepalo, díval jsem se zblízka na podvozek a čekal, až se zvedne.
 
@@ -1339,7 +1361,9 @@ Když ochrnul na pravou nohu, udělali mu neurologické vyšetření a našli n
 
 ## Jako pilot v džungli
 
-  
+</section>
+
+<section>
 
 Po vozovce těsně vedle obrubníku popolézal holub. Držel hlavu dolů, jako by ji chtěl strčit pod křídlo a nedařilo se mu to. Svalil se na bok. Bylo mi jasné, že bych mu měl pomoct umřít. Z představy těla prohýbajícího se pod botou se mi zvedl žaludek. Zlomit vaz prsty bych mu nedokázal už vůbec.
 
@@ -1491,7 +1515,9 @@ Když jsem ho viděl naposledy, už ani neotevřel oči. Ležel schoulený na bo
 
 ## Na místě spolujezdce
 
-  
+</section>
+
+<section>
 
 Nabídl jsem mámě, že si sednu za volant, ale zavrtěla hlavou. Napadlo mě, jak musela Oldu respektovat, když ho nechala, aby řídil hlavně on.
 
@@ -1540,3 +1566,5 @@ Poblíž se strhl povyk. Postava napůl na ježka, co jí z druhé půlky hlavy
 Zvedl se řev a pískot, protože proti davu se rozjelo policejní auto. Podle toho, jak řidič dupl na brzdu, mi bylo jasné, že si nejspíš spletl směr. Nesmělými odskoky se pokusil vycouvat. Kolem mě se najednou udělalo volno, protože všichni se rozběhli.
 
 Jakmile se kluk s palestinou dostal vedle auta, vyskočil tak, že by to musel ocenit i Michal, a kopl. Z bočního okénka vyrazil gejzír roztříštěného skla. Někdo zařval raz dva, dopravní značka se rozhoupala a začala bušit do kapoty. Za předním sklem jsem zahlédl obličej zbledlý hrůzou.
+
+</section>
