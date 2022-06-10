@@ -7,17 +7,7 @@ contentType: prose
 
 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<section>
 
 ## 17\. 11. 1989, Národní třída v Praze, 18:07
 
@@ -87,7 +77,9 @@ _Pokusil jsem se mu vytrhnout. Zasyčel mi do ucha: „Nedělej problémy.“ Te
 
 ## 18\. 7. 2008, Olší u Tábora, 20:19
 
-  
+</section>
+
+<section>
 
 Mám v sobě jeden hubený joint a jedno plnoštíhlé pivo, svou obvyklou dávku. Tráva zaúčinkovala jako obvykle – kůže na hlavě se mi stáhla, jako by mě někdo zezadu popadl za dlouhé vlasy a zabral. Za ty dlouhé vlasy, které už dávno nemám. Tancuju, a právě teď se mi konečně daří zapomenout na dav kolem sebe i na sebe.
 
@@ -113,7 +105,9 @@ Dívám se na tebe, snažím se zaostřit. Vidíš mě? Vidíš, co se ti pokou�
 
 ## Hra na přetlačovanou
 
-  
+</section>
+
+<section>
 
 „Tak tohle je…,“ postrčila mě máma k němu. Měl světlé vlasy, stál vedle auta a honil v puse žvýkačku.
 
@@ -219,7 +213,9 @@ _Holka s copánky udělala pohyb, jako by jí chtěla pomoct. „Seď a ani se
 
 ## Barevná hudba
 
-  
+</section>
+
+<section>
 
 Když jsem uviděl stěny Michalova pokoje v Oldově bytě, kam jsme se s mámou přistěhovali, nebyl jsem si úplně jistý, co vlastně vidím. Měl je vyzdobené čtvrtkami s opálenými, zvlněnými okraji. Na jedné z nich bylo fixou vymalováno LOVE. Neříkalo mi to nic – tím víc jsem byl nadšený. Stačilo se podívat na bachraté, obláčkovité tvary těch čtyř písmen, vyvedených tyrkysovou, oranžovou, červenou a fialovou. Nepodobaly se ničemu, co jsem znal.
 
@@ -307,7 +303,9 @@ _„Tak mi přece pomozte,“ štěkl na nás._
 
 ## Vitamíny
 
-  
+</section>
+
+<section>
 
 Máma nám servírovala vitamíny vždycky ráno u snídaně. Vyprávěla přitom, jak zbědovaní jsou její klienti _na konci své pijácké kariéry_, kteří v padesáti vypadají na sedmdesát. A pilulky cinkly o porcelán.
 
@@ -371,7 +369,9 @@ _„Sednout!“ zařval jiný, daleko výraznější hlas._
 
 ## Líčení
 
-  
+</section>
+
+<section>
 
 Když Michala kvůli kouření z turisťáku vyrazili, jeho pokoj se začal měnit. V rohu pořád ještě ležela zlatokopecká pánev, vzniklá ze staré kuchyňské, na skříni bylo pověšené jakoby horolezecké lano a v knihovničce se leskl kolťák, co byl stejně jenom zapalovač, který navíc nefungoval. Na stěnách teď ale visely plakáty kapel. ABBA. Boney M.
 
@@ -439,7 +439,9 @@ _Pak si přišel pro kluka s pošramocenou rukou, pak pro holku s ofinou a na
 
 ## Kateřina
 
-  
+</section>
+
+<section>
 
 Obdivoval jsem, jak Michal mluvil s holkama. Přimhouřil oči. Lehce se k nim naklonil, až mu patka spadla do čela. Ledabyle, koutkem pusy vypouštěl slova. Vlastně jsem nikdy nestačil sledovat, jak se na to tvářily, protože jsem byl plně zaujatý jeho výkonem. Holky u nás ve třídě bych v životě takhle oslovit nedokázal.
 
@@ -507,7 +509,9 @@ _Nakonec jsem se přitiskl k domovním dveřím a tvářil se, že odemykám. 
 
 ## Slavnostní tank
 
-  
+</section>
+
+<section>
 
 „Namalujeme si tank,“ říkala učitelka vždycky v květnu, na výročí osvobození Rudou armádou. Pokoušeli jsme se vystihnout věž T-34 s jejím zkoseným čumákem a zaoblenou zadní částí. Na ni jsme malovali rudou hvězdu, která občas někomu vyšla se šesti nebo se čtyřmi cípy. Holky se soustředily spíš na květinovou výzdobu tanků, které v jejich podání přetékaly šeříky.
 
@@ -573,7 +577,9 @@ _Skopl jsem boty z nohou a zaváhal. V předsíni se vršil pár na páru. Se
 
 ## Love
 
-  
+</section>
+
+<section>
 
 Olda vyřídil výjezdní doložky. Máti si povzdechla, že ona jako doktorka by to měla těžší, a Olda s lehce ironickým úsměvem odpověděl, že to jsou ty výhody, když je člověk ve výrobě. Opravila ho, že pracuje přece ve výzkumáku. Jenže na dělnickém místě, trumfnul ji bez radosti.
 
@@ -685,13 +691,17 @@ _Seběhl jsem v ponožkách pár schodů, když se prudce otevřely. Plešatý 
 
 _Opatrně jsem vyklouzl z vrat. Sundal jsem si hipísáckou placku, ten kousek plechu, co jsem si přivezl z Budapešti, protože v Praze se koupit nedal, a hodil ho do kanálu._
 
-  
+</section>
+
+<section>
 
 Redaktorka s ostře nalíčenými rty se mě nejspíš zeptá, jak tohle souvisí se 17. listopadem a já jí budu muset vysvětlit, že hodně volně, ale že bez podobných pitomostí si nedokážu vzpomenout vůbec na nic. Koho dnes zajímá nějaká placka? vypálí na mě, možná. Umějí si ten symbol čtenáři vůbec představit? A jestli jo, neznají ho leda jako ornament na batikovaných hadrech? Ve skutečnosti nezajímá ani mě, jenže jak provádím svůj archeologický výzkum minulosti, na světlo jdou všechny ty věci, jaké se v sondách obvykle nacházejí, střepy, kosti, odpadky, a mezi nimi i kulatý kousek tenkého plechu s trojklanným znakem ze dna kanálu, o kterém už nikdo netuší, k čemu vlastně byl.
 
 ## Grilované kuře
 
-  
+</section>
+
+<section>
 
 Nikdy jsem Michalovy holky v Jugoslávii neviděl, ale dokážu si je představit. Všechny jeho slečny si totiž byly podobné. S jedinou výjimkou.
 
@@ -799,7 +809,9 @@ _„A co když maj v kvartýru štěnici? Nemůžu ti dát žádný číslo. N
 
 ## Snímky ze svatby
 
-  
+</section>
+
+<section>
 
 Ve svatební den ke mně brácha přišel do pokoje. Poprosil mě, ať mu zapnu manžety u košile. Zápasil jsem s knoflíčky, v prstech se mi smekala tuhá látka s pořádnou dávkou umělotiny. Michal se tvářil jako vždycky, ale ruku měl celou zpocenou.
 
@@ -877,13 +889,17 @@ _„Vy se s nima znáte?“ prohodil jsem, abych něco řekl._
 
 _„Ne. Nabídli mi svůj kvartýr, kdybych se sám potřeboval zdejchnout.“_
 
-  
+</section>
+
+<section>
 
 Redaktorka s tvrdým pohledem nejspíš řekne, že je v tom moc dialogů. Jestli rovnou nepoužije slovo _kecy_. A bude mít pravdu, jenomže já vím, že všechno se odehrávalo právě takhle, ve větách, co se řekly, nebo ani neřekly. Nemám jinou možnost než pokusit se popsat ty řeči, anebo možná kecy.
 
 ## Zkulturnit se
 
-  
+</section>
+
+<section>
 
 Znovu jsem se s Azou uviděl, když začaly problémy s vlasy. Vytvořily mi kolem hlavy černou svatozář. Cítil jsem se, jako bych šel proti větru, i když bylo bezvětří. Brajgl je měl rovné, takže mu splývaly podél tváře a daly se okázale nedbalým pohybem shrnovat za uši. Stahoval si je taky do ohonu a ten si vrážel pod džísku. Jakmile jsem se pokusil nacpat si vlasy pod mikinu já, při každém pohybu se draly na svobodu.
 
@@ -1015,7 +1031,9 @@ _V bytě už byla tma. Pustil jsem si zprávy, hodil přes sebe i televizi pe�
 
 ## Číslo
 
-  
+</section>
+
+<section>
 
 Cesta za bráchou na vojnu se podobala našim rodinným výletům. Jako obvykle jsem seděl za řidičem. Místo vedle mě bylo ale prázdné.
 
@@ -1081,7 +1099,9 @@ _Pokračovali jsme Karmelitskou, už jenom já a kluk na ježka. Když jsem se 
 
 ## Dárek do domácnosti
 
-  
+</section>
+
+<section>
 
 Michal se po esenbáckém výcviku nastěhoval k Ize a k Izabelce na Žižkov. Měl nárok na služební byt, Izabela mu pravidelně vyčítala, že se dost nesnaží, a Michal nad tím vždycky mávl rukou. Vybavuju si z té doby hlavně pach jeho uniformy. Prokouřená umělá tkanina pořádně smrděla, jenže ten zápach zároveň patřil k Michalovi, a tak jsem ho měl vlastně rád. Obvykle jsem to byl já, kdo otevřel dveře, když u nás zazvonil. Stál na zápraží s čepicí naraženou tak hluboko do čela, že jsem z něj viděl jenom jeho frajerský úsměv. Několikrát se ho Olda zeptal, jestli vidí na cestu, a Michal ho několikrát usadil, že spoléhá na svůj profesionální čuch.
 
@@ -1115,7 +1135,9 @@ Chodil tam taky, aby _zapracoval na dalším kousku_. Garáž měl vybavenou pon
 
 Ulevilo se mi, když jsem uslyšel psací stroj.
 
-  
+</section>
+
+<section>
 
 Někdy v té době se Michal začal zmiňovat o Budišovi, se kterým se poznal u esenbáků. Jednou se u nás zastavili, čekal jsem policajta jak z detektivky, a byl jsem docela zklamaný. Měl nicneříkající výraz, těkající oči a všední kudrnaté vlasy. Vypadal jako někdo, vedle koho stojíte půl hodiny v autobuse a stejně nemáte šanci si ho zapamatovat. Na druhou stranu byl pěkně ukecaný, a když jsem poslouchal ten proud vtípků, sebevědomých prohlášení a přehánění, někoho mi připomněl.
 
@@ -1173,7 +1195,9 @@ _Vyšli jsme před fakultu a zabočili do Široké, kde stál u chodníku fiá
 
 ## Obvody
 
-  
+</section>
+
+<section>
 
 Bylo mi jasné, že stát se policajtem znamená vlastně pokračování Michalova frajerství. Jenom se posunul ještě někam dál, přidal plyn.
 
@@ -1321,7 +1345,9 @@ _Spali jsme ve spacácích na parketách posluchárny. Probíral jsem se jejími
 
 _Nemohl jsem usnout. Snažil jsem se rozeznat její dech mezi oddechováním ostatních. Nakonec jsem ho bezpečně uslyšel, nebo mi to aspoň tak připadalo._
 
-  
+</section>
+
+<section>
 
 Redaktorka bude muset vydržet, že příběh 17. listopadu se stává příběhem Aleny, tak jako se předtím stal příběhem Michala. Davové scény nemůžu nabídnout. Historie se pro mě odehrávala vždycky ve dvou, maximálně ve čtyřech lidech.
 
@@ -1477,7 +1503,9 @@ _Holka se podívala na nás: „Vy jste studenti? Jak to, že nemáte trikolóry
 
 _„Teď jsme přijeli ze severních Čech, kde nás málem zašili. Takže si dej pohov,“ odpověděla Alena s přehledem. Ušklíbla se na mě a zamířila ke schodům._
 
-  
+</section>
+
+<section>
 
 Až na mě bude redaktorka tlačit, abych si vzpomněl na jména těch lidí a údaje, kde jsme to vlastně byli, nedokážu jí vyhovět. Pamatuju si pocit zimy, bledě růžové odstíny oblohy, která v listopadu takhle vypadá brzy ráno a v podvečer, pokašlávání startujících aut se slabou baterkou, studené sklo, na které se špatně lepí plakáty, chuť izolepy, kterou jsme trhali v zubech. A pak ten stoleček, co se najednou objevil ve vchodu do fakulty. Zohýbanou občanku. Karmínovou gumičku, omotanou několikrát kolem ní.
 
@@ -1494,3 +1522,5 @@ _Ucítil jsem jemné poklepání na rameno. Jeden z novinářů, v tmavé vět
 _Připadal jsem si jako u německé ambasády, kam mě poslali z fakulty, abych poprosil o namnožení letáků. Bavil jsem se s dokonale oholeným a upraveným mužem, který mě zkoumavě pozoroval z pootevřených vrat barokního paláce. Nevěděl jsem, jak mám říct, že jsem jeden ze studentů – _v revoluci_? Nebyl jsem si jistý, jestli jím doopravdy jsem, a jestli to můžu takhle formulovat. Člověk ve škvíře s nesnesitelnou vlídností čekal, až vykoktám, co chci._
 
 _Teď to bylo stejné. Z novinářova přátelského výrazu mě akorát zaplavovalo horko a zapomínal jsem i slova, která jsem bezpečně uměl. Usměvavě mě přesvědčoval, abych si kazetu vzal – magneťák budu jednou určitě mít. Usmíval se tak široce, až jsem se za něj trochu styděl. Připadal jsem si daleko starší než on. Vzal jsem si ji s pocitem, že je to dárek pro někoho jiného._
+
+</section>
