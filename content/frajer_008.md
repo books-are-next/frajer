@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 ## Měřítko 1 : 1
