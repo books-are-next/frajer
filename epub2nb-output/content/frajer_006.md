@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 ## 17\. 11. 1989, Národní třída v Praze, 18:07
