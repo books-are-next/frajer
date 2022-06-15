@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-frajer-bb869c1",
-  "revision": "bb869c1",
+  "identifier": "toman-frajer-c4c57e8",
+  "revision": "c4c57e8",
   "readingOrder": [
     "promo.html",
     "frajer_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157240044
+    "date": "Wed Jun 15 2022 05:48:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272137010
   },
   "documents": [
     {
@@ -590,8 +590,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 113,
-      "chars": 711,
+      "words": 127,
+      "chars": 818,
       "ideas": 15,
       "role": "colophon",
       "order": null,
@@ -610,8 +610,8 @@
   ],
   "totals": {
     "all": {
-      "words": 53917,
-      "chars": 320277,
+      "words": 53931,
+      "chars": 320384,
       "ideas": 1930
     },
     "chapters": {
