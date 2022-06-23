@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-frajer-c4c57e8",
-  "revision": "c4c57e8",
+  "identifier": "toman-frajer-02ac700",
+  "revision": "02ac700",
   "readingOrder": [
     "promo.html",
     "frajer_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:48:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272137010
+    "date": "Thu Jun 23 2022 10:03:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978595383
   },
   "documents": [
     {
