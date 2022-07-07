@@ -20,7 +20,7 @@ readingOrder:
   - frajer_008.html
   - frajer_010.html
   - frajer_012.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
