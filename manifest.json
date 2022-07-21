@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-frajer-adb2042",
-  "revision": "adb2042",
+  "identifier": "toman-frajer-65609e1",
+  "revision": "65609e1",
   "readingOrder": [
     "promo.html",
     "frajer_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:59:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187946015
+    "date": "Thu Jul 21 2022 14:39:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414383799
   },
   "documents": [
     {
@@ -591,7 +591,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 127,
-      "chars": 817,
+      "chars": 818,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -611,7 +611,7 @@
   "totals": {
     "all": {
       "words": 54044,
-      "chars": 321094,
+      "chars": 321095,
       "ideas": 1945
     },
     "chapters": {
