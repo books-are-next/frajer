@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-0589-3
 readingOrder:
   - promo.html
   - frajer_005.html

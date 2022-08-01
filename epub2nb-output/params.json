@@ -9,7 +9,8 @@
       "modified": "2021-10-20T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-0589-3"
     },
     "elements": {
       "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -25,17 +26,19 @@
       "brAfter": "MLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP_text_-I-\nMLP_text_bez1radku_-I-",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "frajer_001.md",
@@ -95,8 +98,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Smrt by nebyla nafoukaná..."
+            "title": "Smrt by nebyla nafoukaná...",
+            "children": []
           },
           {
             "filename": "frajer_006.md",
@@ -108,8 +111,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I. ČÁST  LOVE"
+            "title": "I. ČÁST  LOVE",
+            "children": []
           },
           {
             "filename": "frajer_007.md",
@@ -133,8 +136,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II. ČÁST  SVOBODA"
+            "title": "II. ČÁST  SVOBODA",
+            "children": []
           },
           {
             "filename": "frajer_009.md",
@@ -158,8 +161,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III. ČÁST  CHATOVÁNÍ"
+            "title": "III. ČÁST  CHATOVÁNÍ",
+            "children": []
           },
           {
             "filename": "frajer_011.md",
@@ -183,8 +186,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "frajer_013.md",
@@ -198,8 +201,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -354,6 +356,6 @@
       "user": "books-are-next",
       "repo": "frajer"
     },
-    "generatedAt": 1658413153102
+    "generatedAt": 1659361954665
   }
 }
